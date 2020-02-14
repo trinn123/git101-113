@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modify new-1.txt in git101
+=======
+modify new-1.txt in git102
+>>>>>>> e75f2b37e86fb54e061202bab39457cbb136856f
