@@ -1,2 +1,2 @@
-แก้ไขใน master
+สร้างไฟล์ b.txt แก้ไขใน master หลัง fix conflict
 อย่าลืม save file
